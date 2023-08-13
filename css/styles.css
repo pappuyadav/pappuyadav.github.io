@@ -1,0 +1,13 @@
+.social-links {
+  display: flex;
+  align-items: center;
+}
+
+.social-links a {
+  margin-right: 10px;
+}
+
+.social-links img {
+  width: 30px; /* Adjust the width to your preference */
+  height: auto;
+}
