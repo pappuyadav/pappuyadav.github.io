@@ -58,3 +58,21 @@ body, h1, p {
   max-height: 100%;
   object-fit: cover;
 }
+/* Style for secondary image */
+.publication-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto; /* Add some space between the two images */
+}
+/* Style for the linked image */
+a {
+  display: inline-block;
+  text-decoration: none; /* Remove the default underline */
+}
+
+a img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid #ccc; /* Add a border to indicate the link */
+}
