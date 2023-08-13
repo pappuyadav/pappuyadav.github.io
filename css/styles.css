@@ -11,3 +11,9 @@
   width: 30px; /* Adjust the width to your preference */
   height: auto;
 }
+.portfolio-image {
+  width: 2in; /* Adjust the width as needed */
+  height: 2.5in; /* Adjust the height as needed */
+  object-fit: cover; /* Maintain aspect ratio and cover the container */
+  border-radius: 50%; /* Add rounded corners for a softer look */
+}
