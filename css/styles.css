@@ -15,6 +15,6 @@
   width: 2in; /* Adjust the width as needed */
   height: 2.5in; /* Adjust the height as needed */
   object-fit: cover; /* Maintain aspect ratio and cover the container */
-  border-radius: 50%; /* Add rounded corners for a softer look */
-  border: 2px solid #fff;
+  /*border-radius: 50%; /* Add rounded corners for a softer look */
+  border: 2px solid #5499C7;
 }
