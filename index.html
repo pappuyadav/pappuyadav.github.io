@@ -5,13 +5,50 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Pappu Kumar Yadav's Portfolio</title>
 <style>
-  /* ... (existing styles) ... */
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  nav {
+    background-color: #444;
+    padding: 10px;
+    text-align: center;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+  }
+  nav a:hover {
+    text-decoration: underline;
+  }
+  section {
+    padding: 20px;
+  }
+  profile-picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 10px;
+    float: left;
+  }
 </style>
 </head>
 <body>
 <header>
-  <h1>Pappu Kumar Yadav, Ph.D.</h1>
-  <p>Post Doctoral Research Associate, University of Florida, Gainesville, FL</p>
+  <img src="profile.jpg" alt="Pappu Kumar Yadav Profile Picture" id="profile-picture">
+  <div id="header-text">
+    <h1>Pappu Kumar Yadav, Ph.D.</h1>
+    <p>Post Doctoral Research Associate, University of Florida, Gainesville, FL</p>
+  </div>
 </header>
 <nav>
   <a href="#about">About</a>
@@ -19,11 +56,11 @@
   <a href="#experience">Experience</a>
   <a href="#projects">Projects</a>
   <a href="#publications">Publications</a>
+  <a href="PappuYadav_CV.pdf" target="_blank">CV</a>
   <a href="#contact">Contact</a>
-  <a href="PappuYadav_CV.pdf" target="_blank">CV</a> <!-- Added CV link -->
 </nav>
 <section id="about">
-  <h2>About Me</h2>
+  <h2>About</h2>
   <p>Write a brief introduction about yourself here.</p>
 </section>
 <section id="education">
@@ -42,14 +79,15 @@
   <h2>Publications</h2>
   <p>List any publications, articles, or research you've been involved in.</p>
 </section>
-<section id="contact">
-  <h2>Contact</h2>
-  <p>Provide ways for visitors to get in touch with you.</p>
-</section>
 <section id="cv">
   <h2>Curriculum Vitae</h2>
   <p>Click the link below to view/download my CV:</p>
   <p><a href="PappuYadav_CV.pdf" target="_blank">Download CV (PDF)</a></p>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Provide ways for visitors to get in touch with you.</p>
 </section>
 </body>
 </html>
