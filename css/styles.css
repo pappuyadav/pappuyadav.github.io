@@ -21,3 +21,12 @@
 	display: block; /* Ensure the image is a block element */
 	margin: 0 auto; /* Center the image horizontally */
 }
+/* Default styles for larger screens */
+/* ... */
+
+/* Media query for screens with a maximum width of 768px (typical for cell phones) */
+@media (max-width: 768px) {
+  /* Adjust styles for smaller screens */
+  /* ... */
+}
+
