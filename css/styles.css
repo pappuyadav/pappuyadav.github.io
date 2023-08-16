@@ -79,4 +79,7 @@ a img {
 .hsi-gif {
   width: 35%; /* Adjust as needed */
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
