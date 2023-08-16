@@ -76,3 +76,7 @@ a img {
   height: auto;
   border: 2px solid #ccc; /* Add a border to indicate the link */
 }
+.hsi-gif {
+  width: 35%; /* Adjust as needed */
+  text-align: center;
+}
