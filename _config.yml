@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Pappu Kumar Yadav,Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Brookings, SD"
   employer         : "South Dakota State University"
   uri              : # URL
@@ -119,7 +119,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &pappu_k_yadav
 facebook:
   username               :
   app_id                 :
