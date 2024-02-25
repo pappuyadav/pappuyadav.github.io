@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Automated classification of citrus disease on fruits and leaves using convolutional neural network generated features from hyperspectral images and machine learning classifiers"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/paper1
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2024
+venue: 'Journal of Applied Remote Sensing'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Yadav, P. K., Burks, T., Qin, J., Kim, M., Frederick, Q., Dewdney, M. M., & Ritenour, M. A. (2024). Automated classification of citrus disease on fruits and leaves using convolutional neural network generated features from hyperspectral images and machine learning classifiers. Journal of Applied Remote Sensing, 18(1), 014512-014512.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
